@@ -1,0 +1,7 @@
+{
+  "name": "KalaSetu",
+  "description": "AI-powered market linkage platform connecting traditional and marginalized artisans with buyers, exhibitions, and market opportunities.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
